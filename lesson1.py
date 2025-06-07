@@ -17,3 +17,5 @@ print("+" * 20)
 
 print("Math expressions: 2 + 3 * 4")
 print(f"Math expressions: {2 + 3 * 4}...{2 + 2}")
+
+print(f"Площа прямокутника зі стороною 5 і 10 = {5 * 10} см^2")
